@@ -17,9 +17,9 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 9. [Objects](#09-objects)
 10. [Object Methods](#10-object-methods)
 11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
-<!--12. [Higher Order Functions I](#12-higher-order-functions-i)
+12. [Higher Order Functions I](#12-higher-order-functions-i)
 13. [Higher Order Functions II](#13-higher-order-functions-ii)
-14. [Recursion I](#14-recursion-i)
+<!--14. [Recursion I](#14-recursion-i)
 15. [Recursion II](#15-recursion-ii)
 16. [Next Steps](#16-next-steps)-->
 
@@ -167,7 +167,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62bf/text)
 
-<!--[Lecture Slides](Lecture-Slides/11-PBV-PBR.pptx)
+[Lecture Slides](Lecture-Slides/11-PBV-PBR.pptx)
 
 **[Live Lecture + Review](https://youtu.be/LzEZbImfbo4)**
 
@@ -177,21 +177,21 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fb/text)
 
-[Lecture Slides](Lecture-Slides/12-Higher-order-Functions-I.pptx)
+<!--[Lecture Slides](Lecture-Slides/12-Higher-order-Functions-I.pptx)
 
 **[Live Lecture + Review](https://youtu.be/ici220HYgIA)**
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fd/text)
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fd/text)-->
 
 ## **13 Higher Order Functions II**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9a/text)
 
-[Lecture Slides](Lecture-Slides/13-Higher-order-Functions-II.pptx)
+<!--[Lecture Slides](Lecture-Slides/13-Higher-order-Functions-II.pptx)
 
 **[Live Lecture + Review](https://youtu.be/-_7R_j61UZ0)**
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9c/text)
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9c/text)-->
 
 ## **14 Recursion I**
 
