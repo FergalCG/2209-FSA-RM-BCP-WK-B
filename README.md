@@ -19,9 +19,9 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
 12. [Higher Order Functions I](#12-higher-order-functions-i)
 13. [Higher Order Functions II](#13-higher-order-functions-ii)
-<!--14. [Recursion I](#14-recursion-i)
+14. [Recursion I](#14-recursion-i)
 15. [Recursion II](#15-recursion-ii)
-16. [Next Steps](#16-next-steps)-->
+<!--16. [Next Steps](#16-next-steps)-->
 
 ## Additional Resources
 
