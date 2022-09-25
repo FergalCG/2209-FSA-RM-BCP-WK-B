@@ -21,7 +21,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 13. [Higher Order Functions II](#13-higher-order-functions-ii)
 14. [Recursion I](#14-recursion-i)
 15. [Recursion II](#15-recursion-ii)
-<!--16. [Next Steps](#16-next-steps)-->
+16. [Next Steps](#16-next-steps)
 
 ## Additional Resources
 
@@ -44,6 +44,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 -   [Loops 7 kyu](https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-7&tags=Loops&beta=false)
 -   [Control Flow(if and else) 8 kyu](https://www.codewars.com/kata/search/my-languages?beta=false&q=&r=-8&tags=Control+Flow)
 -   [Control Flow 7 kyu](https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-7&tags=Control+Flow&beta=false)
+
 
 ## **01 Introduction and Tidy Code**
 
@@ -131,9 +132,9 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **08 Sudoku Validator**
 
-**[Live Lecture](https://youtu.be/LtkzMMOMtBM)**
-
 [Workshop](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb1/text)
+
+**[Live Lecture](https://youtu.be/LtkzMMOMtBM)**
 
 [Lecture Slides](Lecture-Slides/08-BCP-Sudoku.pptx)
 
@@ -163,6 +164,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
 
+
 ## **11 Pass by Value/Pass by Reference**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62bf/text)
@@ -172,6 +174,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 **[Live Lecture + Review](https://youtu.be/LzEZbImfbo4)**
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62c1/text)
+
 
 ## **12 Higher Order Functions I**
 
@@ -183,6 +186,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fd/text)
 
+
 ## **13 Higher Order Functions II**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9a/text)
@@ -193,25 +197,28 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9c/text)
 
+
 ## **14 Recursion I**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634e/text)
 
-<!--[Lecture Slides](Lecture-Slides/14-Recursion-I.pptx)
+[Lecture Slides](Lecture-Slides/14-Recursion-I.pptx)
 
 **[Live Lecture + Review](https://youtu.be/J5lk5cmJlkM)**
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)-->
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)
+
 
 ## **15 Recursion II**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
 
-<!--**[Live Lecture + Review](https://youtu.be/zBghZMnA0mk)**
+**[Live Lecture + Review](https://youtu.be/zBghZMnA0mk)**
 
 [Lecture Slides](Lecture-Slides/15-Recursion-II.pptx)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6428/text)
+
 
 ## **16 Next Steps**
 
@@ -219,4 +226,4 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Lecture Slides](Lecture-Slides/16-Next-Steps.pptx)
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5aca5637c6f1bb0004fcdab0/landing)-->
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca5637c6f1bb0004fcdab0/landing)
