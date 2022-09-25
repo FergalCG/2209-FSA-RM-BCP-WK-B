@@ -48,24 +48,24 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **01 Introduction and Tidy Code**
 
-**[Live Lecture + Review](https://youtu.be/XV11dObGWec)**
-
 [Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dc11a468c900045db703/text)
-
 [Lecture Slides](Lecture-Slides/01-Introduction-and-Tidy-Code.pptx)
+
+**[Live Lecture + Review](https://youtu.be/XV11dObGWec)**
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dc11a468c900045db703/text)
 
 
 ## **02 Loops And Debugging**
 
-**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac571d2bd9f9e0004adb0a4/text)**
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
 
 [Lecture Slides](Lecture-Slides/02-Loops-and-Debugging.pptx)
 
-**[Live Lecture + Review](https://youtu.be/aKAo_6Lu3NI)**
+[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac571d2bd9f9e0004adb0a4/text)
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
+**[Live Lecture + Review](https://youtu.be/aKAo_6Lu3NI)**
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text)
 
@@ -74,36 +74,35 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Lecture Slides](Lecture-Slides/03-Coercion-and-Truthiness.pptx)
 
-**[Live Lecture + Review](https://youtu.be/j482HCea6QU)**
-
 [Workshop](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed59/text)
+
+**[Live Lecture + Review](https://youtu.be/j482HCea6QU)**
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed5b/text)
 
 
 ## **04 Caesar Cypher**
 
-**[Live Lecture (REACTO)](https://youtu.be/nRSler1WJbs)**
-
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
 [Lecture Slides](Lecture-Slides/04-REACTO-Caesar-Cypher.pdf)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
+**[Live Lecture (REACTO)](https://youtu.be/nRSler1WJbs)**
 
 **[Solution - Caesar Cypher](https://youtu.be/AN2fwt0n454)**
 
 **[Solution - Find Missing Number](https://youtu.be/20DegeggnKY)**
 
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
 
 
 ## **05 Scope**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text)
 
-**[Live Lecture + Workshop Review](https://youtu.be/yaY7wvap1nw)**
+[Lecture Slides](Lecture-Slides/05-Scope.pptx)
 
-**[Lecture Slides](Lecture-Slides/05-Scope.pptx)**
+**[Live Lecture + Workshop Review](https://youtu.be/yaY7wvap1nw)**
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text)
 
@@ -112,9 +111,9 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text)
 
-**[Live Lecture + Solutions](https://youtu.be/9C4qPsjl7sA)**
+[Lecture Slides](Lecture-Slides/06-Arrays-I.pptx)
 
-**[Lecture Slides](Lecture-Slides/06-Arrays-I.pptx)**
+**[Live Lecture + Solutions](https://youtu.be/9C4qPsjl7sA)**
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text)
 
@@ -123,7 +122,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
 
-**[Lecture Slides](Lecture-Slides/07-Arrays-II.pptx)**
+[Lecture Slides](Lecture-Slides/07-Arrays-II.pptx)
 
 **[Live Lecture + Workshop Review](https://youtu.be/3qPyLAlVSRk)**
 
@@ -134,9 +133,9 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb1/text)
 
-**[Live Lecture](https://youtu.be/LtkzMMOMtBM)**
-
 [Lecture Slides](Lecture-Slides/08-BCP-Sudoku.pptx)
+
+**[Live Lecture](https://youtu.be/LtkzMMOMtBM)**
 
 **[Review](https://youtu.be/kYe2oNQmO04)**
 
@@ -213,17 +212,17 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
 
-**[Live Lecture + Review](https://youtu.be/zBghZMnA0mk)**
-
 [Lecture Slides](Lecture-Slides/15-Recursion-II.pptx)
+
+**[Live Lecture + Review](https://youtu.be/zBghZMnA0mk)**
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6428/text)
 
 
 ## **16 Next Steps**
 
-**[Live Lecture](https://youtu.be/vcxvM_paMKI)**
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca5637c6f1bb0004fcdab0/landing)
 
 [Lecture Slides](Lecture-Slides/16-Next-Steps.pptx)
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5aca5637c6f1bb0004fcdab0/landing)
+**[Live Lecture](https://youtu.be/vcxvM_paMKI)**
